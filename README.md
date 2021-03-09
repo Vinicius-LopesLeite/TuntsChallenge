@@ -5,6 +5,7 @@ This is my PHP code for the Tunts Challenge to the Intership vacancy
 
 This code uses PHP/Composer/GoogleSheets API
 
+This is thevlink for the GoggleSheet document: https://docs.google.com/spreadsheets/d/1ZDTIani5q4yqeKYfwSsL8_xcm3uaxoR9m-zdhekROAg/edit?usp=sharing
 
 Follow the next steps to sucessfully execute the program
 
