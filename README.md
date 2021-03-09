@@ -20,7 +20,7 @@ Follow the next steps to sucessfully execute the program
 composure require google/appclient:"^2.0" -W
        
        
-After all the enviroment set its time to run the code, but before just be sure that the GoogleSheet document have the columns "Situação" and "Nota para Aprovação Final" are empty for you to see the change during the execution of the code.
+After all the enviroment set its time to run the code, but before just be sure that the GoogleSheet document have the columns "Situação" and "Nota para Aprovação Final" are empty for you to see the changes during the execution of the code.
 
 To start the execution you only need to go with your terminal to the folder where you cloned the repository, and execute the command: 
 php .\DesafioTunts.php
