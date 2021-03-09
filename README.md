@@ -13,6 +13,7 @@ Follow the next steps to sucessfully execute the program
 3- Third you will need to clone this repository to your own computer using this link: https://github.com/Vinicius-LopesLeite/TuntsChallenge.git
 
 4- And for the Last Step you need to go with your terminal to the folder where you cloned the repository and execute the following command:   
+
 composure require google/appclient:"^2.0" -W
        
 After all the enviroment set its time to run the code, and for that you only need to go with your terminal to the folder where you cloned the repository, and execute the command: 
