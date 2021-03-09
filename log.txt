@@ -1,16 +1,1 @@
-Row: 1 Aluno: Eduardo Situação: Exame Final    Naf: 47
-Row: 2 Aluno: Murilo Situação: Exame Final    Naf: 35
-Row: 3 Aluno: Guilherme Situação: Reprovado por Falta    Naf: 0 
-Row: 4 Aluno: Flavia  Situação: Reprovado por Falta    Naf: 0 
-Row: 5 Aluno: Ruan Situação: Exame Final    Naf: 38
-Row: 6 Aluno: Arnando Situação: Reprovado por Falta    Naf: 0 
-Row: 7 Aluno: Lucas Situação: Exame Final    Naf: 43
-Row: 8 Aluno: Fabio Situação: Aprovado    Naf: 0 
-Row: 9 Aluno: Alisson Situação: Exame Final    Naf: 42
-Row: 10 Aluno: Felipe Situação: Exame Final    Naf: 48
-Row: 11 Aluno: Rachel Situação: Exame Final    Naf: 37
-Row: 12 Aluno: Jouy Situação: Exame Final    Naf: 36
-Row: 13 Aluno: François Situação: Reprovado por Falta    Naf: 0 
-Row: 14 Aluno: Dâmaris Situação: Exame Final    Naf: 48
-Row: 15 Aluno: Leonardo Situação: Reprovado por Falta    Naf: 0 
-Row: 16 Aluno: Guilherme  Situação: Exame Final    Naf: 50
+
