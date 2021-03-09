@@ -1,5 +1,4 @@
-# Tunts
- Tunts Challenge
+# Tunts Challenge
 
 This is my PHP code for the Tunts Challenge to the Intership vacancy
 
