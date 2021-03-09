@@ -22,7 +22,7 @@ composure require google/appclient:"^2.0" -W
        
        
 After all the enviroment set its time to run the code, and for that you only need to go with your terminal to the folder where you cloned the repository, and execute the command: 
-php DesafioTunts.php
+php .\DesafioTunts.php
  
  You will see in the terminal an echo from the execution where will show the information received from the Sheet and the output that will be going to be included in the document
  Also you can see the same echo in the log.txt file
