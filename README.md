@@ -15,7 +15,7 @@ Follow the next steps to sucessfully execute the program
 1. Third you will need to clone this repository to your own computer using this link: https://github.com/Vinicius-LopesLeite/TuntsChallenge.git
 
 1. Now you need to go with your terminal to the folder where you cloned the repository and execute the following command: 
-**composer install**
+- **composer install**
 
 1. Check if the columns "Situação" and "Nota para Aprovação Final" are empty, this way allowing you to see the changes during the code execution
 
