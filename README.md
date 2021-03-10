@@ -15,14 +15,14 @@ Follow the next steps to sucessfully execute the program
 1. Third you will need to clone this repository to your own computer using this link: https://github.com/Vinicius-LopesLeite/TuntsChallenge.git
 
 1. And for the Last Step you need to go with your terminal to the folder where you cloned the repository and execute the following command:   
--**composer install**
+- **composer install**
   
    
    
 After all the enviroment set its time to run the code, but before just be sure that the GoogleSheet document have the columns "Situação" and "Nota para Aprovação Final" are empty for you to see the changes during the execution of the code.
 
 To start the execution you only need to go with your terminal to the folder where you cloned the repository, and execute the command:  
--**php .\DesafioTunts.php**
+- **php .\DesafioTunts.php**
  
  You will see in the terminal an echo from the execution where will show the information received from the Sheet and the output that will be going to be included in the document
  Also you can see the same echo in the log.txt file
