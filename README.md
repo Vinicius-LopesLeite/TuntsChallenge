@@ -17,9 +17,9 @@ Follow the next steps to sucessfully execute the program
 1. Now you need to go with your terminal to the folder where you cloned the repository and execute the following command: 
 - **composer install**
 
-1. Check if the columns "Situação" and "Nota para Aprovação Final" are empty, this way allowing you to see the changes during the code execution
+5. Check if the columns "Situação" and "Nota para Aprovação Final" are empty, this way allowing you to see the changes during the code execution
 
-1. With the enviroment set, you can start the execution of the code, you only need to go with your terminal to the folder where you cloned the repository, and execute the command:  
+6. With the enviroment set, you can start the execution of the code, you only need to go with your terminal to the folder where you cloned the repository, and execute the command:  
 - **php .\DesafioTunts.php**
  
  You will see in the terminal an echo from the execution where will show the information received from the Sheet and the output that will be going to be included in the document
