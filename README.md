@@ -1,7 +1,7 @@
 # Tunts Challenge
 
 ## This is my PHP Solution for the Tunts Challenge proposed in the Intership Process  
-##This solution uses PHP/Composer/GoogleSheets API
+**This solution uses PHP/Composer/GoogleSheets API**
 
 This is the link for the GoggleSheet document: https://docs.google.com/spreadsheets/d/1ZDTIani5q4yqeKYfwSsL8_xcm3uaxoR9m-zdhekROAg/edit?usp=sharing
 
