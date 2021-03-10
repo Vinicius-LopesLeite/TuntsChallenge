@@ -24,7 +24,7 @@ Follow the next steps to sucessfully execute the program
  You will see in the terminal an echo from the execution where will show the information received from the Sheet and the output that will be going to be included in the document
  Also you can see the same echo in the log.txt file
  
- Now you can open the Google Sheet document and see the results of each student.
+ Now you can check the Google Sheet document and see the results of each student.
  
  Thank you for your time;
  Any feedback would be great.
