@@ -8,7 +8,8 @@ This is thevlink for the GoggleSheet document: https://docs.google.com/spreadshe
 
 Follow the next steps to sucessfully execute the program
 
-1- First you will need to have the PHP installed in your system, you can use the following link to install it: https://www.php.net/downloads.php
+1- First you will need to have the PHP installed in your system, I strongly recommend to install by the xampp installer: https://www.apachefriends.org/download.html
+   Or you can use the following link to install it direct from to original source: https://www.php.net/downloads.php
 
 2- Second you will need the Composer - A Dependency Manager used for PHP - You can download it by their own website: https://getcomposer.org/download/
 
@@ -16,7 +17,7 @@ Follow the next steps to sucessfully execute the program
 
 4- And for the Last Step you need to go with your terminal to the folder where you cloned the repository and execute the following command:   
 
-composer require google/appclient:"^2.0" -W
+   composer require google/appclient:"^2.0" -W
        
        
 After all the enviroment set its time to run the code, but before just be sure that the GoogleSheet document have the columns "Situação" and "Nota para Aprovação Final" are empty for you to see the changes during the execution of the code.
